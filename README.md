@@ -4,6 +4,8 @@
   <p align="center">Update a gist to contain your weekly plays on Last.fm</p>
 </p>
 
+[![music-box](https://github.com/thomasbnt/music-box/actions/workflows/music-box.yml/badge.svg)](https://github.com/thomasbnt/music-box/actions/workflows/music-box.yml)
+
 ---
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
